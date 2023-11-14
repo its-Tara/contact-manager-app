@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  font-family:'IRANSansWeb';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+  /* color: white; */
+}
+
+input[type = "text"],
+input[type = "email"],
+input[type = "number"]
+{
+  background-color: #9598b4 !important;
+  color: #f8f8f4;
+  border-color:  #ff6ca7 !important;
+}
+body{
+  background-color:#1e315f ;
+}
+
+input[type="text"]::-webkit-input-placeholder,
+input[type="email"]::-webkit-input-placeholder,
+input[type="number"]::-webkit-input-placeholder {
+  color: #f8f8f4;
+}
+
+.form-control{
+  color: #f8f8f4 !important;
+  border-color:  #ff6ca7 !important;
+  background-color: #757a9d !important;
+}
+
+button:hover{
+  background-color: #982fda  !important;
+}

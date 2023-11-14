@@ -1,0 +1,12 @@
+export const BACKGROUND ="#2E4374" ;
+export const CURRENTLINE = "#6096B4";
+export const SELECTION = "#44495d";
+export const FOREGROUND = "#64CCC5";
+export const COMMENT = " #757a9d";
+export const CYAN = "#D9ACF5";
+export const GREEN = "#60d675";
+export const ORANGE = "#FFCC70";
+export const PINK = " #EF6262";
+export const PURPLE = "#6F61C0";
+export const RED = "#ff5a5a";
+export const YELLOW = " #e5f48b";

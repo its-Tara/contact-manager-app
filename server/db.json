@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "fullname": "پریا زمانی",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwQT64ymUt29vyD12RHNZ9ZXCS--1XN9v5JWGNVu9s_Xh3U6E",
+      "mobile": "1111111111",
+      "email": "pari@gmail.com",
+      "job": "مدرس",
+      "group": "2",
+      "id": 3
+    },
+    {
+      "fullname": "سحر امینی",
+      "photo": "https://img.freepik.com/premium-photo/girl-flat-cartoon-character-illustration_620650-2315.jpg?w=740",
+      "mobile": "1111111111",
+      "email": "sahar@gmail.com",
+      "job": "مدرس",
+      "group": "1",
+      "id": 4
+    },
+    {
+      "fullname": "تارا زمانی",
+      "photo": "https://img.freepik.com/premium-vector/cute-girl-working-laptop-with-cat-cartoon_138676-3025.jpg?size=626&ext=jpg&ga=GA1.1.565349833.1698650562&semt=ais",
+      "mobile": "000000000",
+      "email": "tara@gmail.com",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 1
+    },
+    {
+      "fullname": "پریا نصیری",
+      "photo": "https://img.freepik.com/premium-vector/cute-girl-watching-movie-laptop-with-doll-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3938.jpg?w=740",
+      "mobile": "000000000",
+      "email": "paria@gmail.com",
+      "job": "برنامه نویس",
+      "group": "2",
+      "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
